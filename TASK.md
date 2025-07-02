@@ -19,7 +19,7 @@ You will receive:
 - `samples.vcf.gz`: A gzipped cohort VCF file covering a 10 Mb window of chromosome 6 from the human genome assembly hg38  
 - `samples_meta.psam`: A sample metadata file with population assignments 
 
-You can find these files in [`/data`](https://github.com/Sydney-Informatics-Hub/bioinformatics-coding-task/tree/main/dataset).
+You can find these files in [`/dataset`](https://github.com/Sydney-Informatics-Hub/bioinformatics-coding-task/tree/main/dataset).
 
 # Deliverables 
 
